@@ -9,6 +9,6 @@
     }
   ],
   "autoload":{
-    "psr-4":{"uploader\\":""}
+    "psr-4":{"job520\\":""}
   }
 }
