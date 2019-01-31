@@ -1,0 +1,14 @@
+{
+  "name": "jpb520/uploader",
+  "description": "自用文件上传包",
+  "type": "project",
+  "authors": [
+    {
+      "name": "lee",
+      "email": "complet@163.com"
+    }
+  ],
+  "autoload":{
+    "psr-4":{"uploader\\":""}
+  }
+}
