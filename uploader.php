@@ -349,9 +349,6 @@ class uploader
      */
     private function crop($path, $suffix, $cut_width, $cut_height)
     {
-        $cut_x;
-        $cut_y;
-        $min;
         $size = getimagesize($path);
         $width = $size[0];
         $height = $size[1];
