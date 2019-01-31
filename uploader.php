@@ -1,5 +1,5 @@
 <?php
-namespace uploader;
+namespace job520;
 /**
  * @desc：图片上传类
  * @author [Lee] <[<complet@163.com>]>
