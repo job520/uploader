@@ -3,11 +3,11 @@
 >> 官方文档：[点击进入](http://doc.job520.net/web/#/3?page_id=39)
 
 ### 1. 引入：
-1. 下载：
+1. 下载：  
 `
 composer require job520/uploader
 `
-2. 引入：
+2. 引入：  
 `
 require_once "vendor/autoload.php";
 `
