@@ -1,5 +1,5 @@
 > uploader
->> 自用的上传文件的包
+>> 自用的上传文件的包  
 >> 官方文档：[job520.net](http://doc.job520.net/web/#/3?page_id=39)
 
 ### 1. 引入：
