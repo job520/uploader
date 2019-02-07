@@ -34,6 +34,7 @@ $ret = $imageupload->save('files');
 var_dump($ret);
 ```
 	2. 输出：
+	
 ![](http://doc.job520.net/server/../Public/Uploads/2019-02-02/5c54950673295.png)
 `
 string(42) "files/6a40c31c0851968e22c5bcb2763ac2e8.jpg"
