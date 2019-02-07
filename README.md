@@ -1,17 +1,17 @@
 > uploader
 >> 自用的上传文件的包
 
-1. 引入：
-	1. 下载：
+### 1. 引入：
+1. 下载：
 `
 composer require job520/uploader
 `
-	2. 引入：
+2. 引入：
 `
 require_once "vendor/autoload.php";
 `
-2. 用法：
-	1. 示例代码：
+### 2. 用法：
+1. 示例代码：
 ```php
 <?php
 	// 1. 引入包
@@ -33,7 +33,7 @@ require_once "vendor/autoload.php";
 	// 7. 打印输出
 	var_dump($ret);
 ```
-	2. 输出：
+2. 输出：
 ![](http://doc.job520.net/server/../Public/Uploads/2019-02-02/5c54950673295.png)
 `
 string(42) "files/6a40c31c0851968e22c5bcb2763ac2e8.jpg"
