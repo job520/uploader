@@ -1,6 +1,6 @@
 > uploader
 >> 自用的上传文件的包  
->> 官方文档：[点击进入](http://doc.job520.net/web/#/3?page_id=39)
+>> 官方文档：[点击进入](http://doc.job520.net/web/#/1?page_id=39)
 
 ### 1. 引入：
 1. 下载：  
